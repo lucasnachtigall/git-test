@@ -1,9 +1,9 @@
 function testfunc(message) {
   if ( !message ) {
-    return 'Test Failed';
+    return 'failed';
   }
 
-  return 'Test passed';
+  return 'passed';
 }
 
 module.exports.testfunc = testfunc;
