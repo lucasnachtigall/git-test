@@ -5,3 +5,8 @@
 
 [![Inline docs](http://inch-ci.org/github/lucasnachtigall/git-test.svg?branch=master)](http://inch-ci.org/github/lucasnachtigall/git-test)
 git-test-forked
+
+
+https://github.com/badges/shields
+
+https://img.shields.io/github/workflow/status/lucasnachtigall/git-test/masterwf
