@@ -10,3 +10,9 @@ git-test-forked
 https://github.com/badges/shields
 
 https://img.shields.io/github/workflow/status/lucasnachtigall/git-test/masterwf
+
+![Maintenance](https://img.shields.io/maintenance/yes/2020)
+![node-current](https://img.shields.io/node/v/jest)
+![npm bundle size](https://img.shields.io/bundlephobia/min/react)
+![GitHub language count](https://img.shields.io/github/languages/count/lucasnachtigall/git-test)
+![GitHub top language](https://img.shields.io/github/languages/top/lucasnachtigall/git-test)
