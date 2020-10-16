@@ -1,2 +1,3 @@
-![masterwf](https://github.com/lucasnachtigall/git-test/workflows/masterwf/badge.svg)
+![masterwf](https://github.com/lucasnachtigall/git-test/workflows/masterwf/badge.svg?event=push)
+
 git-test
