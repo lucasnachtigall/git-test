@@ -16,3 +16,4 @@ https://img.shields.io/github/workflow/status/lucasnachtigall/git-test/masterwf
 ![npm bundle size](https://img.shields.io/bundlephobia/min/react)
 ![GitHub language count](https://img.shields.io/github/languages/count/lucasnachtigall/git-test)
 ![GitHub top language](https://img.shields.io/github/languages/top/lucasnachtigall/git-test)
+![EricAproval](https://img.shields.io/badge/EricAproval%25-1000%25-green)
